@@ -1,4 +1,3 @@
-
 ---
 title: "Hautleitwertsensor"
 date: "2018-10-01T14:14:11.000Z"
